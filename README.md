@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **fun and exciting projects!**
 
-- 👨‍💻 All of my projects are available at [https://richardq.dev](https://richardq.dev)
+- 👨‍💻 All of my projects are available at [https://www.richardq.dev](https://www.richardq.dev)
 
 - 💬 Ask me about **Full-stack Web Development, Software Engineering, Art & Design, Language learning**
 
