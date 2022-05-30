@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Quintero</h1>
-<h3 align="center">A passionate frontend developer from Miami, Florida</h3>
+<h3 align="center">A passionate Full-Stack Developer from Miami, Florida</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Node.js, React**
 
