@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.richardq.dev](https://www.richardq.dev)
 
-- 💬 Ask me about **Full-stack Web Development, Software Engineering, Art & Design, Language learning**
+- 💬 Ask me about **Full-stack Web Development, Software Engineering, Art & Design, Language Learning**
 
 - 📫 How to reach me **richardqdev@gmail.com**
 
